@@ -1,2 +1,2 @@
 # cytoscapejs-element
-Cytoscape.js Web Component example using VanillaJS
+Cytoscape.js Web Component example using Polymer
