@@ -1,13 +1,14 @@
 {
     "name": "cytoscapejs-element",
     "version": "0.1.0",
-    "description": "Cytoscape.js Web Component example using VanillaJS.",
+    "description": "Cytoscape.js Web Component example using Polymer.",
     "authors": [
         "Kozo Nishida"
     ],
     "license": "Apache License, Version 2.0",
     "main": "cytoscapejs.html",
     "keywords": [
+        "polymer",
         "web-components"
     ],
     "ignore": [
@@ -15,6 +16,6 @@
         "bower_components"
     ],
     "dependencies": {
-        "webcomponentsjs": "^0.7.0"
+        "polymer": "Polymer/polymer#^1.0.0"
     }
 }
